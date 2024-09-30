@@ -31,7 +31,7 @@ namespace HelloWord2UWP
         {
             ContentDialog noWifiDialog = new ContentDialog()
             {
-                Title = "Hoy no es día de Barsa",
+                Title = "Hoy no es día de Betis",
                 Content = "Hola mundo.",
                 CloseButtonText = "Ok"
             };
